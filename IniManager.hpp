@@ -11,6 +11,7 @@
 #include <fstream>
 #include <sstream>
 #include <unordered_map>
+#include <algorithm>
 
 #define INIMANAGER_HPP
 
