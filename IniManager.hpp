@@ -5,11 +5,13 @@
  * Copyright(c) 2024 Jacob Nilsson
  */
 
+#pragma once
+
+#include <string>
 #include <fstream>
 #include <sstream>
 #include <unordered_map>
 
-#pragma once
 #define INIMANAGER_HPP
 
 /**
